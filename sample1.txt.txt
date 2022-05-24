@@ -1,0 +1,8 @@
+
+This is the text from file 1.
+a=open("sample1.txt")
+file=a.read()
+print(file)
+
+open(file.1,'W') as b:
+a.write(data_b)
